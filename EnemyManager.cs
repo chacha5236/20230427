@@ -19,4 +19,5 @@ public class EnemyManager : MonoBehaviour
             Destroy(gameObject);
         }
     }
+    //aaaaaaaaaaaaaaaa
 }
